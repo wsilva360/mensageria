@@ -1,0 +1,1 @@
+select * from guardian.log_sentinela;
